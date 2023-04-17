@@ -10,8 +10,9 @@ We release the code and trained models of our paper [Gate-Shift-Fuse for Video A
 @article{gsf,
   title={{Gate-Shift-Fuse for Video Action Recognition}},
   author={Sudhakaran, Swathikiran and Escalera, Sergio and Lanz, Oswald},
-  journal={arXiv preprint arXiv:2203.08897},
-  year={2022}
+  journal={{IEEE Transactions on Pattern Analysis and Machine Intelligence}},
+  year={2023}
+  doi={10.1109/TPAMI.2023.3268134}
 }
 ```
 
